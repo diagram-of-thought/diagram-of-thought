@@ -4,9 +4,9 @@ On the Diagram of Thought, Yifan Zhang et al.
 
 ## Examples
 
-Demo: https://chatgpt.com/g/g-oPWt6oqF0-iterative-reasoner
+Demo: [https://chatgpt.com/g/g-oPWt6oqF0-iterative-reasoner](https://chatgpt.com/g/g-oPWt6oqF0-iterative-reasoner) 
 
-Chat history: [https://chatgpt.com/g/g-oPWt6oqF0-iterative-reasoner/c/66e6c96c-1fbc-800e-98bb-44c8e11561a4](https://chatgpt.com/g/g-oPWt6oqF0-iterative-reasoner/c/66e6c73a-6e04-800e-8544-488a560346c4)
+Chat history: [https://chatgpt.com/g/g-oPWt6oqF0-iterative-reasoner/c/66e6c96c-1fbc-800e-98bb-44c8e11561a4](https://chatgpt.com/g/g-oPWt6oqF0-iterative-reasoner/c/66e6c73a-6e04-800e-8544-488a560346c4) 
 
 
 ![](./images/numerical.png)
