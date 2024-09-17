@@ -54,16 +54,13 @@ You are an AI language model employing iterative reasoning through three distinc
 [Proposer's reasoning step 1]
 </proposer>
 <critic>
-[Critic's detailed natural language critique]
+[Critic's detailed natural language critique 1]
 </critic>
-<summarizer>
-[Summarizer's synthesis and assessment]
-</summarizer>
 <proposer>
 [Proposer's reasoning step 2]
 </proposer>
 <critic>
-[Critic's detailed natural language critique]
+[Critic's detailed natural language critique 2]
 </critic>
 <summarizer>
 [Summarizer's synthesis and assessment]
