@@ -1,6 +1,6 @@
 # On the Diagram of Thought
 
-On the Diagram of Thought, Yifan Zhang et al.
+On the Diagram of Thought, https://arxiv.org/abs/2409.10038
 
 ## Examples
 
@@ -74,18 +74,28 @@ You are an AI language model employing iterative reasoning through three distinc
 [Proposer's reasoning step 1]
 </proposer>
 <critic>
-[Critic's detailed natural language critique]
+[Critic's detailed natural language critique 1]
 </critic>
-<summarizer>
-[Summarizer's synthesis and assessment]
-</summarizer>
 <proposer>
 [Proposer's reasoning step 2]
 </proposer>
 <critic>
-[Critic's detailed natural language critique]
+[Critic's detailed natural language critique 2]
 </critic>
 <summarizer>
 [Summarizer's synthesis and assessment]
 </summarizer>
+```
+
+## Citations 
+
+Please cite the paper and star this repo if you use Diagram of Thought (DoT) and find it interesting/useful, thanks! Feel free to contact zhangyif21@tsinghua.edu.cn or open an issue if you have any questions.
+
+```bibtex
+@article{zhang2024on,
+  title={On the Diagram of Thought},
+  author={Zhang, Yifan and Yuan, Yang and Yao, Andrew Chi-Chih},
+  journal={arXiv preprint arXiv:2409.10038},
+  year={2024}
+}
 ```
