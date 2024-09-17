@@ -89,7 +89,7 @@ You are an AI language model employing iterative reasoning through three distinc
 
 ## Citations 
 
-Please cite the paper and star this repo if you use Diagram of Thought (DoT) and find it interesting/useful, thanks! Feel free to contact zhangyif21@tsinghua.edu.cn or open an issue if you have any questions.
+Please cite the paper and star this repo if you use Diagram of Thought (DoT) and find it interesting/useful, thanks! Feel free to contact zhangyif21@mails.tsinghua.edu.cn or open an issue if you have any questions.
 
 ```bibtex
 @article{zhang2024on,
