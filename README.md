@@ -18,7 +18,7 @@ Chat history: [https://chatgpt.com/g/g-oPWt6oqF0-iterative-reasoner/c/66e6c96c-1
 Please cite the paper and star this repo if you use Diagram of Thought (DoT) and find it interesting/useful, thanks! Feel free to contact zhangyif21@mails.tsinghua.edu.cn or open an issue if you have any questions.
 
 ```bibtex
-@article{zhang2024on,
+@article{zhang2024diagram,
   title={On the Diagram of Thought},
   author={Zhang, Yifan and Yuan, Yang and Yao, Andrew Chi-Chih},
   journal={arXiv preprint arXiv:2409.10038},
