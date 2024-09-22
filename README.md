@@ -2,6 +2,8 @@
 
 On the Diagram of Thought, https://arxiv.org/abs/2409.10038
 
+As Huggingface Daily Paper: https://huggingface.co/papers/2409.10038 
+
 ## Examples
 
 Demo: [https://chatgpt.com/g/g-oPWt6oqF0-iterative-reasoner](https://chatgpt.com/g/g-oPWt6oqF0-iterative-reasoner) 
